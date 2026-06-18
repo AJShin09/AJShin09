@@ -10,10 +10,6 @@
 
 </div>
 
----
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=shin-py&show_icons=true&theme=github_dark&hide_border=true&icon_color=00ff88&title_color=00ff88&text_color=8b949e&bg_color=0d1117&ring_color=7c3aed" width="52%" alt="GitHub Stats" />
-
 ```bash
   Name     : Allan Jabol
   Role     : Full-Stack Developer Intern
