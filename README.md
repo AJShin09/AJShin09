@@ -21,3 +21,11 @@
 ```
 
 ![](https://komarev.com/ghpvc/?username=AJShin09)
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AJShin09&theme=github-dark-blue&hide_border=true&stroke=0d1117&ring=00ff88&fire=7c3aed&currStreakNum=00ff88&sideNums=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&background=0d1117" width="49%" alt="Streak Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJShin09&layout=compact&theme=github_dark&hide_border=true&title_color=00ff88&text_color=8b949e&bg_color=0d1117&langs_count=6&count_private=true" width="49%" alt="Top Languages" />
+</div>
+<div align="center">
+Show Image
+
+</div>
