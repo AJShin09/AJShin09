@@ -35,9 +35,19 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AJShin09&theme=github-dark-blue&hide_border=true&stroke=0d1117&ring=00ff88&fire=7c3aed&currStreakNum=00ff88&sideNums=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&background=0d1117" height="160" alt="Streak Stats" />
+<div align="center">
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=AJShin09&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=0D1117&ring=00FF88&fire=7C3AED&currStreakNum=00FF88&sideNums=8B949E&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" height="160" alt="GitHub Streak Stats" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJShin09&layout=compact&theme=github_dark&hide_border=true&title_color=00ff88&text_color=8b949e&bg_color=0d1117&langs_count=6&count_private=true" height="160" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJShin09&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=8B949E&langs_count=8&count_private=true" height="160" alt="Top Languages" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=AJShin09&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=8B949E&icon_color=00FF88&include_all_commits=true&count_private=true&rank_icon=github" height="165" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AJShin09&theme=github-dark&hide_border=true&bg_color=0D1117&color=8B949E&line=00FF88&point=7C3AED" height="165" alt="Contribution Graph" />
+
+</div>
 
 </div>
 
