@@ -43,8 +43,6 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AJShin09&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=8B949E&icon_color=00FF88&include_all_commits=true&count_private=true&rank_icon=github" height="165" alt="GitHub Stats" />
-&nbsp;&nbsp;
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AJShin09&theme=github-dark&hide_border=true&bg_color=0D1117&color=8B949E&line=00FF88&point=7C3AED" height="165" alt="Contribution Graph" />
 
 </div>
