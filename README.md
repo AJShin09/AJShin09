@@ -19,7 +19,6 @@
 <div align="center">
 
 ![Stars](https://img.shields.io/github/stars/AJShin09?style=flat-square&color=00ff88&labelColor=373e47&label=total+stars)
-![Profile Views](https://komarev.com/ghpvc/?username=AJShin09&style=flat-square&color=00ff88&label=profile+views)
 ![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAJShin09&query=$.public_repos&style=flat-square&color=00ff88&labelColor=373e47&label=public+repos)
 
 
@@ -31,7 +30,6 @@
 ![ESP32](https://img.shields.io/badge/esp32-0d1117?style=flat-square&logo=espressif&logoColor=E7352C)
 ![MQTT](https://img.shields.io/badge/mqtt-0d1117?style=flat-square&logo=eclipse-mosquitto&logoColor=8a2be2)
 ![Arduino](https://img.shields.io/badge/arduino-0d1117?style=flat-square&logo=arduino&logoColor=00979d)
-![Linux](https://img.shields.io/badge/linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
 ![Git](https://img.shields.io/badge/git-0d1117?style=flat-square&logo=git&logoColor=F05033)
 ![Figma](https://img.shields.io/badge/figma-0d1117?style=flat-square&logo=figma&logoColor=f24e1e)
 
