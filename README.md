@@ -43,8 +43,6 @@
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AJShin09&theme=github-dark&hide_border=true&bg_color=0D1117&color=8B949E&line=00FF88&point=7C3AED" height="165" alt="Contribution Graph" />
-
 </div>
 
 </div>
