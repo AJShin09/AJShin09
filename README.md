@@ -10,7 +10,7 @@
   Name     :  Allan Jabol
   Stack    :  React · Next.js · TypeScript
   Hardware :  ESP32 · MQTT · IoT Systems
-  Focus    :  IoT Security · Embedded Systems
+  Focus    :  IoT · Security · Embedded Systems
   Status   :  Building & learning.
 ```
 
