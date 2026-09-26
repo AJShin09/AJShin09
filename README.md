@@ -39,7 +39,6 @@
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AJShin09&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=0D1117&ring=00FF88&fire=7C3AED&currStreakNum=00FF88&sideNums=8B949E&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" height="160" alt="GitHub Streak Stats" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJShin09&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=8B949E&langs_count=8&count_private=true" height="160" alt="Top Languages" />
 
 <br><br>
 
