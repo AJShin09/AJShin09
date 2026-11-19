@@ -7,9 +7,9 @@
 <br/>
 
 ```bash
-  Name     :  Allan Jabol
+  Name     :  Allan Valcoba Jabol Jr.
   Stack    :  React · Next.js · TypeScript
-  Hardware :  ESP32 · MQTT · IoT Systems
+  Hardware :  ESP32 · Arduino · MQTT · IoT Systems · Electronics
   Focus    :  IoT · Security · Embedded Systems
   Status   :  Building & learning.
 ```
